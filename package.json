@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/libracoder/nodejs-staff-management-system#readme",
   "dependencies": {
+    "@types/express": "^4.0.39",
     "express": "^4.16.2"
   }
 }
