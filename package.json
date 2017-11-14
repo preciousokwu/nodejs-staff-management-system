@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-staff-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libracoder/nodejs-staff-management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libracoder/nodejs-staff-management-system/issues"
+  },
+  "homepage": "https://github.com/libracoder/nodejs-staff-management-system#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
